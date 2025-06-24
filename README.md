@@ -1,4 +1,4 @@
 # Demo
-My Firts git Repository
+My First git Repository
 <br>
 Author-Sharada
